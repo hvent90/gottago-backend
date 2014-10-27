@@ -1,0 +1,1 @@
+<li>{{ link_to_route('tenants.logout', 'Log Out', null,['id' => 'nav-log-out']) }}</li>
